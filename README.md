@@ -2,14 +2,14 @@
 
 <center>
 <div display="flex" flex-direction="row" flex-wrap="wrap" background-color="gray" justify-content="space-around" align-items="center">
-<img height="400px" width="250px"  src="./assets/ads.jpg" />
-<img height="400px" width="250px" src="./assets/fsf.jpg" />
-<img height="400px" width="250px" src="./assets/qwrrq.jpg" />
-<img height="400px" width="250px" src="./assets/WhatsApp%20Image%202023-06-16%20at%201.jpg" />
-<img height="400px" width="250px" src="./assets/WhatsApp%20Image%202023-06-16%20at%2022.01.59.jpg" />
-<img height="400px" width="250px"  src="./assets/aaa.jpg" />
-<img height="400px" width="250px"  src="./assets/WhatsApp%20Image%202023-06-16%20at%2022.01.56.jpg" />
-<img height="400px" width="250px"  src="./assets/WhatsApp%20Image%202023-06-16%20at%2022.01.57.jpg" />
+<img height="400px" width="250px"  src="./assets/1.jpg" />
+<img height="400px" width="250px" src="./assets/2.jpg" />
+<img height="400px" width="250px" src="./assets/3.jpg" />
+<img height="400px" width="250px" src="./assets/4.jpg" />
+<img height="400px" width="250px" src="./assets/5.jpg" />
+<img height="400px" width="250px"  src="./assets/6.jpg" />
+<img height="400px" width="250px"  src="./assets/7.jpg" />
+<img height="400px" width="250px"  src="./assets/8.jpg" />
 </div>
 </center>
 
