@@ -1,6 +1,8 @@
 # Recipes App in React Native
 
-<center><img height="400px" width="250px"  src="./assets/ads.jpg" />
+<center>
+<div display="flex" flex-direction="row" flex-wrap="wrap">
+<img height="400px" width="250px"  src="./assets/ads.jpg" />
 <img height="400px" width="250px" src="./assets/fsf.jpg" />
 <img height="400px" width="250px" src="./assets/qwrrq.jpg" />
 <img height="400px" width="250px" src="./assets/WhatsApp%20Image%202023-06-16%20at%201.jpg" />
@@ -8,7 +10,7 @@
 <img height="400px" width="250px"  src="./assets/WhatsApp%20Image%202023-06-16%20at%2022.01.58.jpg" />
 <img height="400px" width="250px"  src="./assets/WhatsApp%20Image%202023-06-16%20at%2022.01.56.jpg" />
 <img height="400px" width="250px"  src="./assets/WhatsApp%20Image%202023-06-16%20at%2022.01.57.jpg" />
-
+</div>
 </center>
 
 Download this beautiful free React Native starter kit, featuring a recipes app, to bootstrap your mobile app development. Learn React Native by working on a real project. Get familiar with various native components, navigation, redux and more.
