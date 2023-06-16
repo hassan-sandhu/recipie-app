@@ -1,7 +1,7 @@
 # Recipes App in React Native
 
 <center>
-<div display="flex" flex-direction="row" flex-wrap="wrap">
+<div display="flex" flex-direction="row" flex-wrap="wrap"justify-content="space-around" align-items="center">
 <img height="400px" width="250px"  src="./assets/ads.jpg" />
 <img height="400px" width="250px" src="./assets/fsf.jpg" />
 <img height="400px" width="250px" src="./assets/qwrrq.jpg" />
