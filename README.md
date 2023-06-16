@@ -1,7 +1,7 @@
 # Recipes App in React Native
 
 <center><img src="./assets/ads.jpg" />
-<img src="./assets/fsf.jpg" />
+<img height="400px" width="250px" src="./assets/fsf.jpg" />
 <img src="./assets/qwrrq.jpg" />
 <img src="./assets/WhatsApp%20Image%202023-06-16%20at%201.jpg" />
 <img src="./assets/WhatsApp%20Image%202023-06-16%20at%2022.01.59.jpg" />
