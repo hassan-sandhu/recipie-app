@@ -1,6 +1,15 @@
 # Recipes App in React Native
 
-<center><a href="https://www.instamobile.io/app-templates/food-app-template/"><img src="./assets/ads.jpg" /></a></center>
+<center><img src="./assets/ads.jpg" />
+<img src="./assets/fsf.jpg" />
+<img src="./assets/qwrrq.jpg" />
+<img src="./assets/WhatsApp%20Image%202023-06-16%20at%201.jpg" />
+<img src="./assets/WhatsApp%20Image%202023-06-16%20at%2022.01.59.jpg" />
+<img src="./assets/WhatsApp%20Image%202023-06-16%20at%2022.01.58.jpg" />
+<img src="./assets/WhatsApp%20Image%202023-06-16%20at%2022.01.56.jpg" />
+<img src="./assets/WhatsApp%20Image%202023-06-16%20at%2022.01.57.jpg" />
+
+</center>
 
 Download this beautiful free React Native starter kit, featuring a recipes app, to bootstrap your mobile app development. Learn React Native by working on a real project. Get familiar with various native components, navigation, redux and more.
 
