@@ -26,6 +26,9 @@ And scan the QR code in the Expo client app.
 
 
 ## Features
+- Login Screen
+- Firebase
+- Realtime database
 - Recipes List
 - Categories
 - Ingredients
